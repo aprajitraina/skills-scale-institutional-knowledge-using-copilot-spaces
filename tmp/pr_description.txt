@@ -1,0 +1,5 @@
+Add OctoAcme Project Management README and process summary
+
+This pull request adds docs/README.md as a central hub for OctoAcme project management documentation.
+
+Closes #2
